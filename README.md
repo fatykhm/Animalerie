@@ -11,7 +11,4 @@ Technologies utilisées
 ✔ Achat de produits  
 ✔ Gestion des utilisateurs et commandes  
 
-Installation  
-1. **Cloner le dépôt** : `git clone https://github.com/ton-utilisateur/nom-du-repo.git`  
-2. **Importer la base de données** dans MySQL  
-3. **Lancer l'application** : `javac Main.java && java Main`
+
